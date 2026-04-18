@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/solidsnake.png",
+      "destination": "/api/image"
+    }
+  ]
+}
