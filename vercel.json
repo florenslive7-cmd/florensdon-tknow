@@ -1,10 +1,9 @@
 {
-  "cleanUrls": false,
-  "trailingSlash": false,
+  "version": 2,
   "rewrites": [
     {
       "source": "/foto.png",
-      "destination": "/api/image"
+      "destination": "/api/image.py"
     }
   ]
 }
