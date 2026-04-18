@@ -1,8 +1,10 @@
 {
+  "cleanUrls": false,
+  "trailingSlash": false,
   "rewrites": [
     {
-      "source": "/solidsnake.png",
-      "destination": "/api/image"
+      "source": "/foto.png",
+      "destination": "/api/image.py"
     }
   ]
 }
