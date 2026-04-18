@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/foto.png",
-      "destination": "/api/image.py"
+      "destination": "/api/image"
     }
   ]
 }
